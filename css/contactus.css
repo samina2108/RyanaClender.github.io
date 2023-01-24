@@ -1,0 +1,73 @@
+#frm
+        {
+            
+            
+            width: 50%;
+           
+            background-color: #55ACEE;
+
+        }
+        label
+
+        {
+            color: rgb(3, 3, 3);
+            font-weight: bold;
+            font-family:"font-family: Impallari Type, Cyreal;";
+            
+        }
+        .button{
+          color: black;
+          font-family: "Impallari Type, Cyreal" ;
+
+        }
+        .fa {
+          padding: 20px;
+          
+          font-size: 30px;
+          
+          text-align: center;
+          text-decoration: none;
+          border-radius: 80%;
+          margin-left: 7px;
+        }
+        
+        
+        .fa:hover {
+          opacity: 0.7;
+        }
+        
+        
+        
+        
+        .fa-facebook {
+          background: #3B5998;
+          color: white;
+          
+        }
+        
+        
+        .fa-twitter {
+          background: #55ACEE;
+          color: white;
+        
+        }
+        .fa-linkedin {
+          background :#0077b5;
+          color: white;
+        
+        }
+        .fa-youtube {
+          background: #cd201f;
+          color: white;
+        
+        }
+        .fa-instagram {
+          background: #f46f30;
+          color: white;
+        
+        }
+          
+          
+        /* body{
+            margin-top: 250px;
+        } */
